@@ -161,7 +161,7 @@
       },
       {
         "skinID": 10620,
-        "skinName": "Krixi Phù thủy thời không veins",
+        "skinName": "Krixi Phù thủy thời không veins hehe",
         "hasButtonSkin": true,
         "killNotifyID": 19
       },
@@ -324,10 +324,10 @@
         "killNotifyID": -999
      },
       {
-        "skinID": 10812,
+        "skinID": 10813,
         "skinName": "Gildur dandadan",
         "hasButtonSkin": true,
-        "killNotifyID": 19 
+        "killNotifyID": 65 
       }
     ]
   },
