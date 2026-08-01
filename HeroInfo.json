@@ -160,10 +160,10 @@
         "killNotifyID": -999
       },
       {
-        "skinID": 10812,
-        "skinName": "Krixi Phù thủy thời không 67",
+        "skinID": 10620,
+        "skinName": "Krixi Phù thủy thời không veins",
         "hasButtonSkin": true,
-        "killNotifyID": 67
+        "killNotifyID": 19
       },
       {
         "skinID": 10621,
@@ -322,12 +322,12 @@
         "skinName": "Gildur PASULOL",
         "hasButtonSkin": false,
         "killNotifyID": -999
-     },
+          },
       {
         "skinID": 10812,
-        "skinName": "Gildur 66",
+        "skinName": "Gildur 67",
         "hasButtonSkin": true,
-        "killNotifyID": 66
+        "killNotifyID": 67
       }
     ]
   },
