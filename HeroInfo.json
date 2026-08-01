@@ -161,9 +161,9 @@
       },
       {
         "skinID": 10812,
-        "skinName": "Krixi Phù thủy thời không veins gilnew",
+        "skinName": "Krixi Phù thủy thời không veins",
         "hasButtonSkin": true,
-        "killNotifyID": 66
+        "killNotifyID": 19
       },
       {
         "skinID": 10621,
@@ -324,10 +324,10 @@
         "killNotifyID": -999
      },
       {
-        "skinID": 10813,
-        "skinName": "gilnewhehe",
+        "skinID": 10812,
+        "skinName": "Gildur Dandadan",
         "hasButtonSkin": true,
-        "killNotifyID": 19
+        "killNotifyID": 67
       }
     ]
   },
