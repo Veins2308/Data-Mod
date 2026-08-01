@@ -322,6 +322,12 @@
         "skinName": "Gildur PASULOL",
         "hasButtonSkin": false,
         "killNotifyID": -999
+     },
+      {
+        "skinID": 10811,
+        "skinName": "Gildur dandadan",
+        "hasButtonSkin": true,
+        "killNotifyID": 19 
       }
     ]
   },
